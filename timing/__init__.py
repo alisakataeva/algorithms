@@ -1,1 +1,1 @@
-from .base import SearchTiming
+from .base import SearchTiming, Timing
